@@ -1,0 +1,124 @@
+.icon {
+  position: absolute;
+  top: -5px;
+  left: 0;
+  width: 1440px;
+  height: 517px;
+  object-fit: cover;
+}
+.invincible {
+  position: absolute;
+  top: 37px;
+  left: 55px;
+  font-family: var(--font-jejuhallasan);
+  display: inline-block;
+  width: 245px;
+  height: 38px;
+}
+.highlighted-events {
+  position: absolute;
+  top: 517px;
+  left: 36px;
+  color: #f40101;
+}
+.reccomended-camps-by {
+  position: absolute;
+  top: 570px;
+  left: -3px;
+  font-size: var(--font-size-17xl);
+  color: rgba(0, 0, 0, 0.64);
+  display: inline-block;
+  width: 723px;
+  height: 53px;
+}
+.kd-1-icon,
+.ks-1-icon,
+.ksh-1-icon {
+  position: absolute;
+  top: 623px;
+  left: 36px;
+  width: 240px;
+  height: 385px;
+  object-fit: cover;
+}
+.ks-1-icon,
+.ksh-1-icon {
+  left: 322px;
+  width: 226px;
+}
+.ksh-1-icon {
+  top: 640px;
+  left: 681px;
+  width: 1px;
+  height: 6px;
+}
+.ksh-2-icon,
+.leh-1-icon,
+.mn-1-icon {
+  position: absolute;
+  top: 623px;
+  left: 615px;
+  width: 235px;
+  height: 385px;
+  object-fit: cover;
+}
+.leh-1-icon,
+.mn-1-icon {
+  left: 923px;
+  width: 226px;
+}
+.mn-1-icon {
+  left: 1192px;
+  width: 228px;
+}
+.experience,
+.thrill {
+  position: absolute;
+  top: 158px;
+  left: 74px;
+  font-family: var(--font-josefin-sans);
+}
+.thrill {
+  top: 197px;
+  left: 76px;
+  font-size: 64px;
+  font-family: var(--font-irish-grover);
+}
+.desktop-1-child,
+.explore {
+  position: absolute;
+  left: 55px;
+  height: 85px;
+}
+.desktop-1-child {
+  top: 414px;
+  border-radius: var(--br-3xs);
+  background-color: rgba(217, 217, 217, 0.35);
+  width: 268px;
+}
+.explore {
+  top: 429px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-itim);
+  display: inline-block;
+  width: 257px;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 36px;
+  left: 1020px;
+  width: 86px;
+  height: 1px;
+  object-fit: contain;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-jacques-francois);
+}

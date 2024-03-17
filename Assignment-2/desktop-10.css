@@ -1,0 +1,171 @@
+.image-1-icon {
+  position: absolute;
+  top: 589px;
+  left: 317px;
+  width: 354px;
+  height: 229px;
+  object-fit: cover;
+}
+.desktop-10-child {
+  position: absolute;
+  top: 512px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 512px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 524px;
+  left: 19px;
+  width: 354px;
+  height: 229px;
+  object-fit: cover;
+}
+.invincible-is-a {
+  position: absolute;
+  top: 774px;
+  left: 19px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 667px;
+  height: 103px;
+}
+.quick-links {
+  margin: 0;
+}
+.events {
+  margin-bottom: 0;
+}
+.contact-us {
+  color: inherit;
+}
+.events-downloads-login-stories {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 53px;
+}
+.quick-links-events-container {
+  position: absolute;
+  top: 538px;
+  left: 720px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.contact-for-rajkot {
+  text-decoration: underline;
+}
+.contact-ahmedabad-head-container {
+  position: absolute;
+  top: 701px;
+  left: 1031px;
+  font-size: 24px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 409px;
+  height: 342px;
+}
+.fb-1-icon,
+.ig-1-icon {
+  position: absolute;
+  top: 939px;
+  left: 29px;
+  border-radius: var(--br-31xl);
+  width: 73px;
+  height: 58px;
+  object-fit: cover;
+}
+.fb-1-icon {
+  left: 126px;
+  width: 70px;
+  height: 65px;
+}
+.wp-1-icon,
+.ytt-1-icon {
+  position: absolute;
+  top: 935px;
+  left: 166px;
+  width: 187px;
+  height: 74px;
+  object-fit: cover;
+}
+.wp-1-icon {
+  top: 939px;
+  left: 317px;
+  border-radius: var(--br-31xl);
+  width: 60px;
+  height: 60px;
+}
+.stories3,
+.tales-from-the {
+  position: absolute;
+  left: 31px;
+}
+.stories3 {
+  top: 11px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-tomato);
+}
+.tales-from-the {
+  top: 69px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 548px;
+  height: 82px;
+}
+.camp-1-icon,
+.d5-1-icon,
+.mtf-1-icon {
+  position: absolute;
+  top: 134px;
+  left: 31px;
+  border-radius: var(--br-mini);
+  width: 431px;
+  height: 275px;
+  object-fit: cover;
+}
+.d5-1-icon,
+.mtf-1-icon {
+  left: 517px;
+  width: 405px;
+}
+.d5-1-icon {
+  left: 983px;
+  width: 399px;
+}
+.why-every-school {
+  position: absolute;
+  top: 420px;
+  left: 31px;
+  display: inline-block;
+  width: 443px;
+  height: 85px;
+}
+.mt-friendship-expedition,
+.treks-to-do {
+  position: absolute;
+  font-size: var(--font-size-17xl);
+}
+.mt-friendship-expedition {
+  top: 425px;
+  left: 517px;
+  display: inline-block;
+  width: 387px;
+  height: 63px;
+}
+.treks-to-do {
+  top: 428px;
+  left: 983px;
+}
+.desktop-10 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

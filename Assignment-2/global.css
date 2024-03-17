@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  /* align-items: center; */
+}
+
+:root {
+  /* fonts */
+  --font-itim: Itim;
+  --font-irish-grover: "Irish Grover";
+  --font-josefin-sans: "Josefin Sans";
+  --font-jacques-francois: "Jacques Francois";
+  --font-jejuhallasan: JejuHallasan;
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-21xl: 40px;
+  --font-size-17xl: 36px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro-100: #d9d9d9;
+  --color-black: #000;
+  --color-tomato: #f53030;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-mini: 15px;
+  --br-31xl: 50px;
+}

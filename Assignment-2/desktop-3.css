@@ -1,0 +1,137 @@
+.snow-treks1 {
+  margin: 0;
+}
+.snow-treks {
+  position: absolute;
+  top: 24px;
+  left: 46px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-tomato);
+}
+.bt-1-icon,
+.d1a9118-sw-1,
+.kk-1-icon,
+.km-1-icon {
+  position: absolute;
+  top: 111px;
+  left: 46px;
+  border-radius: var(--br-mini);
+  width: 311px;
+  height: 311px;
+  object-fit: cover;
+}
+.d1a9118-sw-1,
+.kk-1-icon,
+.km-1-icon {
+  top: 107px;
+  left: 393px;
+  width: 302px;
+  height: 315px;
+}
+.kk-1-icon,
+.km-1-icon {
+  left: 731px;
+  width: 309px;
+}
+.km-1-icon {
+  left: 1076px;
+  width: 324px;
+}
+.brahmatal-trek {
+  position: absolute;
+  top: 434px;
+  left: 46px;
+  display: inline-block;
+  width: 325px;
+  height: 78px;
+}
+.kasolmanali,
+.kedarkantha,
+.spiti-winter {
+  position: absolute;
+  top: 435px;
+  left: 393px;
+}
+.kasolmanali,
+.kedarkantha {
+  left: 731px;
+}
+.kasolmanali {
+  left: 1076px;
+}
+.snow-treks-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1440px;
+  height: 512px;
+  overflow: hidden;
+}
+.weekend-events {
+  position: absolute;
+  top: 524px;
+  left: 35px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-tomato);
+}
+.bakor-1-icon,
+.beyt-dwarka-1,
+.jaisalmer-1-icon,
+.kutch-1-icon {
+  position: absolute;
+  top: 640px;
+  left: 46px;
+  border-radius: var(--br-mini);
+  width: 311px;
+  height: 285px;
+  object-fit: cover;
+}
+.beyt-dwarka-1,
+.jaisalmer-1-icon,
+.kutch-1-icon {
+  left: 393px;
+  width: 302px;
+  height: 287px;
+}
+.jaisalmer-1-icon,
+.kutch-1-icon {
+  left: 731px;
+  width: 309px;
+  height: 285px;
+}
+.kutch-1-icon {
+  left: 1076px;
+  width: 324px;
+  height: 287px;
+}
+.bakor {
+  position: absolute;
+  top: 937px;
+  left: 46px;
+}
+.beyt-dwarka,
+.jaisalmer,
+.kutch {
+  position: absolute;
+  top: 937px;
+  left: 393px;
+}
+.jaisalmer,
+.kutch {
+  left: 731px;
+}
+.kutch {
+  left: 1076px;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

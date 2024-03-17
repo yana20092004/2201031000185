@@ -1,0 +1,105 @@
+.reviwes {
+  position: absolute;
+  top: 20px;
+  left: 56px;
+  color: var(--color-tomato);
+  display: inline-block;
+  width: 234px;
+  height: 65px;
+}
+.experience-the-best,
+.why-people {
+  position: absolute;
+  top: 39px;
+  left: 766px;
+}
+.why-people {
+  top: 85px;
+  left: 36px;
+}
+.aditya-desai {
+  margin: 0;
+}
+.aditya-desai-this-container {
+  position: absolute;
+  top: 176px;
+  left: 32px;
+  display: inline-block;
+  width: 598px;
+}
+.desktop-9-child {
+  position: absolute;
+  top: 178px;
+  left: 325px;
+  width: 56px;
+  height: 59px;
+}
+.desktop-9-inner,
+.desktop-9-item,
+.star-icon {
+  position: absolute;
+  top: 163px;
+  left: 1258px;
+  width: 56px;
+  height: 59px;
+}
+.desktop-9-inner,
+.star-icon {
+  left: 1202px;
+}
+.star-icon {
+  top: 162px;
+  left: 1146px;
+}
+.desktop-9-child1,
+.desktop-9-child2,
+.desktop-9-child3 {
+  position: absolute;
+  top: 162px;
+  left: 1090px;
+  width: 56px;
+  height: 59px;
+}
+.desktop-9-child2,
+.desktop-9-child3 {
+  left: 1034px;
+}
+.desktop-9-child3 {
+  top: 176px;
+  left: 549px;
+}
+.desktop-9-child4,
+.desktop-9-child5,
+.desktop-9-child6 {
+  position: absolute;
+  top: 176px;
+  left: 493px;
+  width: 56px;
+  height: 59px;
+}
+.desktop-9-child5,
+.desktop-9-child6 {
+  left: 437px;
+}
+.desktop-9-child6 {
+  left: 381px;
+}
+.harvy-purohit-best-container {
+  position: absolute;
+  top: 162px;
+  left: 720px;
+  display: inline-block;
+  width: 684px;
+  height: 740px;
+}
+.desktop-9 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

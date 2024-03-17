@@ -1,0 +1,118 @@
+.desktop-2-child {
+  position: absolute;
+  top: -5px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1440px;
+  height: 512px;
+}
+.explore-himalayas,
+.summer-events {
+  position: absolute;
+  top: 432px;
+  left: 556px;
+}
+.summer-events {
+  top: 12px;
+  left: 36px;
+  font-size: var(--font-size-29xl);
+  color: #e81c1c;
+}
+.dd-1-icon,
+.hms-1-icon,
+.mss-1-icon {
+  position: absolute;
+  top: 94px;
+  left: 36px;
+  border-radius: var(--br-mini);
+  width: 322px;
+  height: 314px;
+  object-fit: cover;
+}
+.hms-1-icon,
+.mss-1-icon {
+  left: 528px;
+  width: 341px;
+}
+.mss-1-icon {
+  left: 1039px;
+  width: 342px;
+  height: 327px;
+}
+.dalhousie-dharamsala {
+  position: absolute;
+  top: 432px;
+  left: 23px;
+}
+.bj-1-icon,
+.manali-summers {
+  position: absolute;
+  top: 444px;
+  left: 1079px;
+}
+.bj-1-icon {
+  top: 596px;
+  left: 36px;
+  border-radius: var(--br-3xs);
+  width: 322px;
+  height: 314px;
+  object-fit: cover;
+}
+.special-events {
+  position: absolute;
+  top: 512px;
+  left: 36px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-tomato);
+}
+.bunjee-jumping {
+  position: absolute;
+  top: 934px;
+  left: 45px;
+  font-size: var(--font-size-21xl);
+  text-align: left;
+}
+.mg-1-icon {
+  position: absolute;
+  top: 586px;
+  left: 552px;
+  border-radius: var(--br-3xs);
+  width: 317px;
+  height: 334px;
+  object-fit: cover;
+}
+.moon-gazing {
+  position: absolute;
+  top: 944px;
+  left: 599px;
+  font-size: var(--font-size-21xl);
+  text-align: left;
+}
+.v-1-icon,
+.varso {
+  position: absolute;
+  left: 1039px;
+}
+.v-1-icon {
+  top: 586px;
+  border-radius: var(--br-3xs);
+  width: 349px;
+  height: 334px;
+  object-fit: cover;
+}
+.varso {
+  top: 943px;
+  font-size: var(--font-size-21xl);
+  text-align: left;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

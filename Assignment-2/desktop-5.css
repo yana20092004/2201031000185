@@ -1,0 +1,32 @@
+.mtf-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 692px;
+  height: 1024px;
+  object-fit: cover;
+}
+.manali-is-calling,
+.manali-means-a {
+  position: absolute;
+  top: 0;
+  left: 720px;
+  display: inline-block;
+  width: 720px;
+  height: 700px;
+}
+.manali-means-a {
+  top: 630px;
+  height: 394px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}
